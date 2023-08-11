@@ -31,3 +31,15 @@
     transform: scale(1.08);
 }
 
+button {
+    color: black;
+    display: inline-block;
+    background: #A020F0;
+    box-shadow: 5px 5px 0px #000;
+    padding: 18px 20px;
+    margin-right: 0;
+    text-decoration: none;
+    transition: transform 200ms linear;
+
+}
+
