@@ -3,5 +3,10 @@ body {
 }
 
 body {
-    font-family: "Fira Code" ;
+    font-family: "Fira Code", Arial, Helvetica, sans-serif;
+}
+
+button {
+    border: none;
+    font-family: inherit;
 }

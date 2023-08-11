@@ -9,8 +9,7 @@
     margin-right: 30px;
 }
 
-.action:before {
-    font-family: "Fira Code" ;
+.action::before {
     content: "";
     background-color: #A020F0;
     width: 10px;
