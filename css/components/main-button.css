@@ -1,5 +1,5 @@
 
-#button {
+#main-button {
     display: inline-block;
     background: #A020F0;
     color: white;
@@ -10,12 +10,12 @@
     text-decoration: none;
 }
 
-#button:hover {
+#main-button:hover {
     background: #D35400;
     transform: scale(1.08);
 }
 
-.button {
+.main-button {
     color: white;
     display: inline-block;
     background: #A020F0;
@@ -26,7 +26,7 @@
     transition: transform 200ms linear;
 }
 
-.button:hover {
+.main-button:hover {
     background: #D35400;
     transform: scale(1.08);
 }
