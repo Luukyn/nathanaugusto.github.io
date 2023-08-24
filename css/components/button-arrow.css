@@ -27,3 +27,11 @@
     transform: rotate(180deg) translateX(12px);
 
 }
+
+.wrapper-sobre{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 100px;
+    
+}
