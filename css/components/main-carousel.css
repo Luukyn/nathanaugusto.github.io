@@ -1,0 +1,33 @@
+.main-carousel {
+    position: relative;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.main-carousel::after {
+    content: '';
+    position: absolute;
+    left: 40;
+    top: 28px;
+    display: block;
+    height: 6px;
+    width: calc(100% - 200px);
+    background-color: #000;
+}
+
+.main-carousel::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 28px;
+    display: block;
+    border: 3px dashed #000;
+    width: 100%;
+}
+
+
+.main-carousel .button-arrow {
+    position: relative;
+    transform: translateY(70%);
+}
+
