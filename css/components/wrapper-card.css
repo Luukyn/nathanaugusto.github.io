@@ -1,4 +1,9 @@
 .wrapper-card {
     display: flex;
     justify-content: center;
+    
+}
+
+.wrapper-card figure {
+    margin: 50px;
 }
