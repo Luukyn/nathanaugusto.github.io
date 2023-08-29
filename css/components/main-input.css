@@ -8,8 +8,8 @@
     padding-right: 5px;
 }
 
-#message {
-    height: 400px;
+.main-input.-textarea {
+    height: 330px;
     width: auto;
 }
 
