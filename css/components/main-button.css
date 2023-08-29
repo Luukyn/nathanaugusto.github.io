@@ -8,11 +8,13 @@
     margin-right: 0;
     transition: transform 200ms linear;
     text-decoration: none;
+    
 }
 
 #main-button:hover {
     background: #D35400;
     transform: scale(1.08);
+    cursor: pointer;
 }
 
 .main-button {
@@ -29,5 +31,6 @@
 .main-button:hover {
     background: #D35400;
     transform: scale(1.08);
+    cursor: pointer;
 }
 

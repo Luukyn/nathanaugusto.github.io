@@ -1,11 +1,16 @@
 .main-section.-main-form {
     padding-left: 40px;
     padding-right: 40px;
-    margin: ;
+    
 }
 
 .main-section.-main-form .main-button{
     margin-top: 20px;
+
+}
+.main-section.-main-form .main-button:hover{
+    transform: scale(1.03);
+    
 }
 
 .main-section.-main-form h2 {
